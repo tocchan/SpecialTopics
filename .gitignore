@@ -3,7 +3,7 @@
 *.lo
 *.o
 *.obj
-!data/**.obj
+!data/**/*.obj
 
 # Precompiled Headers
 *.gch
@@ -14,7 +14,6 @@
 *.dylib
 *.dll
 !data/*.dll
-!data/**.obj
 
 # Fortran module files
 *.mod
